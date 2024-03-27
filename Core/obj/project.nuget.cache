@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZTmWRSgpv5I/N7n74AYgxJtDilY39l0x/ZLFRf9rMGqvvJ0LZETmprlispTK6tqKrcq4gj9OfFOyoeBCjcd5Pg==",
+  "dgSpecHash": "7+gpeo1yU49jNh0r/hxfJnO5TWxVT9s/BC5R+a4yw10f26aNQ/eEQd8d3aLM0mFPSkIpw9sZAZ9SHzaKaZ54Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Upgrade\\Desktop\\AB\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Upgrade\\Desktop\\AB\\Test-Project\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Upgrade\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Upgrade\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
@@ -65,10 +65,7 @@
     "C:\\Users\\Upgrade\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Upgrade\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\Upgrade\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Upgrade\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Upgrade\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
-    "C:\\Users\\Upgrade\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
-    "C:\\Users\\Upgrade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+    "C:\\Users\\Upgrade\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
